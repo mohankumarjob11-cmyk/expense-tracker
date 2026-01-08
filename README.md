@@ -1,8 +1,8 @@
-📊 Expense Tracker API
+**📊 Expense Tracker API**
 
 A backend Expense Tracker application built using FastAPI and MongoDB, which allows users to manage daily expenses, generate category-wise summaries, and download reports.
 
-🚀 Features
+**🚀 Features**
 
 ✅ Create, Read, Update, Delete (CRUD) expenses
 
@@ -16,7 +16,7 @@ A backend Expense Tracker application built using FastAPI and MongoDB, which all
 
 ☁️ MongoDB Atlas cloud database
 
-🛠 Tech Stack
+**🛠 Tech Stack**
 
 Backend Framework: FastAPI
 
@@ -30,7 +30,7 @@ Reporting: Pandas + Excel
 
 Server: Uvicorn
 
-📂 Project Structure
+**📂 Project Structure **
 expense-tracker/
 │
 ├── app/
@@ -47,7 +47,7 @@ expense-tracker/
 ├── README.md
 └── venv/
 
-⚙️ Installation & Setup
+**⚙️ Installation & Setup**
 1️⃣ Clone the Repository
 git clone https://github.com/mohankumarjob11-cmyk/expense-tracker.git
 cd expense-tracker
@@ -79,7 +79,7 @@ Swagger UI:
 🔗 API Endpoints
 ➕ Create Expense
 
-POST /expenses
+**POST /expenses**
 
 📄 Get All Expenses
 
@@ -130,7 +130,7 @@ GET /expenses/report/excel
   }
 ]
 
-📌 Future Enhancements
+**📌 Future Enhancements**
 
 🔐 Authentication & User accounts
 
@@ -142,7 +142,7 @@ GET /expenses/report/excel
 
 
 
-⭐ Conclusion
+**⭐ Conclusion**
 
 This project demonstrates:
 
