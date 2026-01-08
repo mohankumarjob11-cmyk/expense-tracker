@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDEs / Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# MongoDB local files (if any)
+data/
+
+# Logs
+*.log
+
+# Excel / Reports (optional, if you want to keep generated files local)
+*.xlsx
+ 
