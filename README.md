@@ -31,6 +31,7 @@ Reporting: Pandas + Excel
 Server: Uvicorn
 
 **📂 Project Structure **
+
 expense-tracker/
 │
 ├── app/
